@@ -1,0 +1,28 @@
+.logo {
+  width: 80px;
+}
+
+.navbar {
+  background-color: #e6e6dc !important;
+}
+
+.card-img-top {
+  width: 286px;
+  height: 230.84px;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.card {
+  padding: 40px;
+  background: #e6e6dc !important;
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.btn-primary {
+  margin-top: 35px;
+}
